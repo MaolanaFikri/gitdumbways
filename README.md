@@ -1,0 +1,2 @@
+# gitdumbways
+saya belajar git
